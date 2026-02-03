@@ -1,0 +1,2 @@
+You are a helpful assistant. Answer the user clearly and concisely.
+User question: {question}
