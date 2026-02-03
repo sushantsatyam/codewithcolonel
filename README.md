@@ -20,12 +20,6 @@ I’ll keep `main` as the index and put each daily project inside its track fold
 
 ## ML track (starter outline)
 
-**Day 01:** Data cleaning + quick EDA  
-- Folder: `ml-track/day01_eda_basics`
-
-**Day 02:** Baseline model (logistic regression)  
-- Folder: `ml-track/day02_baseline_model`
-
 **Week 1: Basics**
 1. Data cleaning + EDA
 2. Baseline model (logistic regression)
@@ -52,14 +46,6 @@ I’ll keep `main` as the index and put each daily project inside its track fold
 19. CNNs
 20. Transfer learning
 21+. Real-world case studies
-
-## Daily schedule (starting tomorrow)
-
-I’ll publish **one project per day**. This keeps the pace steady without overthinking each day.
-
-- **Tomorrow (Day 1):** Data cleaning + quick EDA (`ml-track/day01_eda_basics`)
-- **Day 2:** Baseline model (`ml-track/day02_baseline_model`)
-- **Day 3+:** Continue the ML track plan above, then alternate with AI/LLM track days.
 
 ## Notes (written by me)
 
