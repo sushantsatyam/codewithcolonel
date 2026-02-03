@@ -14,6 +14,9 @@ I’ll keep `main` as the index and put each daily project inside its track fold
 - **Day 01:** Prompting styles + sequential/parallel execution
   - Folder: `ai-llm-track/day01_agent_prompting`
   - Tech: Python + OpenAI + notebook
+- **Day 02:** Prompt chaining (planner → executor → critic)
+  - Folder: `ai-llm-track/day02_prompt_chaining`
+  - Tech: Python + OpenAI + notebook
 
 ## ML track (starter outline)
 
