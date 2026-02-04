@@ -23,6 +23,9 @@ I’ll keep `main` as the index and put each daily project inside its track fold
 - **Day 04:** Memory + state (lightweight)
   - Folder: `ai-llm-track/day04_memory_state`
   - Tech: Python + OpenAI + notebook
+- **Day 05:** Evaluation + guardrails
+  - Folder: `ai-llm-track/day05_evaluation_guardrails`
+  - Tech: Python + OpenAI + notebook
 
 ## ML track (starter outline)
 
