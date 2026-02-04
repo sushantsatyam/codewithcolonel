@@ -1,0 +1,9 @@
+You are a helpful assistant.
+
+User memory notes:
+{memory_notes}
+
+User request:
+{request}
+
+Respond in a friendly tone and honor any relevant memory notes.
