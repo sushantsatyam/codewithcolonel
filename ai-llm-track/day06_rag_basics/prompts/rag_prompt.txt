@@ -1,0 +1,7 @@
+You are a helpful assistant. Use the context to answer the question.
+
+Context:
+{context}
+
+Question: {question}
+Answer with 3-5 sentences. If the context is missing, say you don't know.
