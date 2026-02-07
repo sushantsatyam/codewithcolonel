@@ -7,12 +7,16 @@ This notebook introduces a **simple retrieval-augmented generation (RAG)** loop:
 - A tiny in-memory document store
 - A naive keyword-based retriever
 - A prompt template that grounds the response in retrieved context
+- Loading open data (Palmer Penguins) to create retrievable notes
 
 ## Folder layout
 
 ```
 .
+├── data
+│   └── penguins.csv
 ├── notebook.ipynb
+├── theory_guide.md
 └── prompts
     └── rag_prompt.txt
 ```
@@ -21,7 +25,12 @@ This notebook introduces a **simple retrieval-augmented generation (RAG)** loop:
 
 1. Install dependencies:
    ```bash
-   pip install openai
+   pip install openai pandas
    ```
 2. Set `OPENAI_API_KEY` in your environment.
-3. Open the notebook and run the cells.
+3. Review the theory guide in `theory_guide.md`.
+4. Open the notebook and run the cells.
+
+## Data source
+
+The notebook uses the **Palmer Penguins** dataset (open data) sourced from the seaborn-data repository.

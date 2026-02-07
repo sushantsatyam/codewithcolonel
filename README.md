@@ -63,3 +63,7 @@ I’ll keep `main` as the index and put each daily project inside its track fold
 
 - I’m aiming for progress over perfection.
 - Each folder should have a clear README, runnable code, and a short demo output.
+
+## Subtasks
+
+- [ ] Visit all completed tutorials across both tracks and add theory guides in Markdown for each day.
